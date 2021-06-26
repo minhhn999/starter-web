@@ -11,3 +11,6 @@ test1
 test2
 
 ## How to Contribute
+
+## Copyright
+test copyright
